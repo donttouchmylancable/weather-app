@@ -1,0 +1,24 @@
+.searchbar{
+    display:flex;
+    background:darkblue;
+}
+.searchbar *{
+    margin:20px;
+    padding:10px;
+}
+.content{
+    display: flex;
+    background:lightskyblue;
+    height:50vh;
+    width:100vw;
+}
+.gif_container{
+    display:flex;
+    justify-content: space-around;
+    background: lightskyblue;
+}
+img.gif{
+    align-self: center;
+    height:40vh;
+    width:60vw;
+}
